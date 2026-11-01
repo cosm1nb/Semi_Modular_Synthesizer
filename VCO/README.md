@@ -8,6 +8,6 @@ Based on the TL082 Op-Amp and the TL431 Voltage Reference, this project explores
 
 ---  
 
-[Full Schematic VCO](/VCO/Synth_Oscillator_v1.pdf)   
+[Full Schematic VCO](VCO/Synth_Oscillator_v1.pdf)   
 
 ---  
